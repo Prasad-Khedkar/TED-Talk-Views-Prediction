@@ -16,6 +16,6 @@
 
 ## Conclusions:-
 
-##### Three algorithms- Gradient Boosting, XGB Regressor, Random Forest Regressor gave top-notch performance with 90%+ accuracy on both Training data and Test data.
-##### In terms of error, KNN Regressor performed well and gave minimum RMSE error out of all other models, but gave low training score, hence rejecting. 
-##### In all, Gradient Boosting is our algorithm and we will train our model based on this regressor.
+##### Four algorithms- Simple linear, Lasso, Ridge and Random Forest Regressor gave top-notch performance with 80%+ accuracy on both Training data and Test data.
+##### Other models performed poorly or overfitted with training data, hence rejected
+##### In all, Random Forest is our algorithm and we will train our model based on this regressor.
